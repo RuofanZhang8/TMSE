@@ -1,0 +1,17 @@
+1.  Summarize the pathology report from the following aspects. Ensure the summary is accurate and strictly based on the content of the report. Respond as concisely and accurately as possible, avoiding irrelevant content:
+
+    1. Histological Classification: Type of cancer, subtype (e.g., invasive carcinoma, ductal carcinoma in situ, lobular carcinoma).
+    2. Tumor Description: Presence or absence of necrosis, tumor-infiltrating lymphocytes (TILs).
+    3. Grades: Histological grade, nuclear grade.
+    4. Invasion and Spread: Evidence of lymphovascular invasion, calcification, or lesion invasion into adjacent tissues or organs.
+    5. Immunohistochemistry (IHC): Findings from IHC testing.
+    6. Differentiation: Differentiation level of the lesion.
+    7. Surgical Margins: Whether the margins of the excised tissue are clear of disease.
+
+    Report:
+    {REPORT}
+
+
+2.  Please generate a  concise and succinct report from the information. Summarize each point into a single sentence without using bold formatting. Please disregard any descriptions containing "NOT mentioned" or "NOT explicitly stated." Keep verbosity low!!!
+    Report:
+    {REPORT}
